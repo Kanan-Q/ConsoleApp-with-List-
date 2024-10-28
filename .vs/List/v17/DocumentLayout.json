@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Men\\source\\repos\\List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB064058-4392-40F3-A13F-2052BF5B94BE}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\men\\source\\repos\\list\\classlibrary1\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB064058-4392-40F3-A13F-2052BF5B94BE}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|c:\\users\\men\\source\\repos\\list\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|c:\\users\\men\\source\\repos\\list\\list\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|solutionrelative:list\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|c:\\users\\men\\source\\repos\\list\\list\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|solutionrelative:list\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|c:\\users\\men\\source\\repos\\list\\list\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B9959-A948-4F1D-886C-9C6D509EDA6D}|List\\List.csproj|solutionrelative:list\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotAvailAbleException.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\List\\ClassLibrary1\\NotAvailAbleException.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\NotAvailAbleException.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\List\\ClassLibrary1\\NotAvailAbleException.cs",
+              "RelativeToolTip": "ClassLibrary1\\NotAvailAbleException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:57:42.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\List\\List\\Room.cs",
+              "RelativeDocumentMoniker": "List\\Room.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\List\\List\\Room.cs",
+              "RelativeToolTip": "List\\Room.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:52:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\List\\List\\Hotel.cs",
+              "RelativeDocumentMoniker": "List\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\List\\List\\Hotel.cs",
+              "RelativeToolTip": "List\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:52:46.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\List\\List\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "List\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\List\\List\\AppDbContext.cs",
+              "RelativeToolTip": "List\\AppDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:52:37.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\List\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\List\\List\\Program.cs",
+              "RelativeToolTip": "List\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:51:48.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
